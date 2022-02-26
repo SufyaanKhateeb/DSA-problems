@@ -1,2 +1,0 @@
-= ";
-        cout << (mask & n) << endl;
