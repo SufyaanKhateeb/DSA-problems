@@ -1,0 +1,14 @@
+-   Reverse a Linked List: https://bit.ly/3H1lKov
+-   find Middle of a Linked List: https://bit.ly/3tRF3ga
+-   Reverse a Linked List in K group: https://bit.ly/3r1rCIP
+-   Circular Linked List or not: https://bit.ly/3qY0KcF
+-   Detect & Remove Loop in Linked List: https://bit.ly/3rSdTDo
+-   Remove Duplicates from Sorted Linked List: https://bit.ly/3rjMQC5, https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+-   Remove Duplicates from Un-Sorted Linked List: https://bit.ly/3uaGRRU
+-   Sort 0s, 1s and 2s : https://bit.ly/3s3fAOu
+-   Merge 2 sorted Linked List : https://bit.ly/3rfFdfV
+-   Palindrome Linked List: https://shorturl.at/rB069, https://leetcode.com/problems/palindrome-linked-list/
+-   Add 2 Numbers rep. by Linked List: https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1, https://leetcode.com/problems/add-two-numbers/
+-   Clone Linked List with Random Pointers: https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1#, https://leetcode.com/problems/copy-list-with-random-pointer/
+-   Merge Sort Linked List: https://bit.ly/3GsXWsz, https://leetcode.com/problems/sort-list/
+-   Flatten a Linked List: https://bit.ly/3GoASv6, 
