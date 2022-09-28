@@ -1,15 +1,15 @@
--   Delete Middle Element in Stack: https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/
--   Valid Parenthesis: https://bit.ly/34kxPaq, https://leetcode.com/problems/valid-parentheses/
--   InsertAtBottom in Stack: https://bit.ly/34qqmGL
--   Design a Stack With Increment Operation: https://leetcode.com/problems/design-a-stack-with-increment-operation/
--   Reverse a Stack using recursion: https://bit.ly/3HCBnD4
--   Sort a Stack using recursion: https://bit.ly/3snpr1B
--   Redundant Brackets: https://bit.ly/3srTkOv
--   Minimum bracket Reversal: https://bit.ly/3GAYRr5
--   Minimum Remove to Make Valid Parentheses: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
--   Next Smaller Element: https://bit.ly/34GjYL4
--   Largest Rectangular Area in Histogram: https://leetcode.com/problems/largest-rectangle-in-histogram/
--   Celebrity Problem : https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/
--   Max Rectangle in Binary Matrix with all 1's: https://practice.geeksforgeeks.org/problems/max-rectangle/1/, https://leetcode.com/problems/maximal-rectangle/
--   N Stacks in an Array: https://bit.ly/3BexNwv
--   Special Stack: https://bit.ly/3LpVPJM
+- Delete Middle Element in Stack: https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/
+- Valid Parenthesis: https://bit.ly/34kxPaq, https://leetcode.com/problems/valid-parentheses/
+- InsertAtBottom in Stack: https://bit.ly/34qqmGL
+- Design a Stack With Increment Operation: https://leetcode.com/problems/design-a-stack-with-increment-operation/
+- Reverse a Stack using recursion: https://bit.ly/3HCBnD4
+- Sort a Stack using recursion: https://bit.ly/3snpr1B
+- Redundant Brackets: https://bit.ly/3srTkOv
+- Minimum bracket Reversal: https://bit.ly/3GAYRr5
+- Minimum Remove to Make Valid Parentheses: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+- Next Smaller Element: https://bit.ly/34GjYL4
+- Largest Rectangular Area in Histogram: https://leetcode.com/problems/largest-rectangle-in-histogram/
+- Celebrity Problem : https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/
+- Max Rectangle in Binary Matrix with all 1's: https://practice.geeksforgeeks.org/problems/max-rectangle/1/, https://leetcode.com/problems/maximal-rectangle/
+- N Stacks in an Array: https://bit.ly/3BexNwv
+- Special Stack: https://bit.ly/3LpVPJM

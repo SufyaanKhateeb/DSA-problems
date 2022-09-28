@@ -1,0 +1,25 @@
+## Graphs
+- Flood fill Algo: https://bit.ly/3bxY94d, https://leetcode.com/problems/flood-fill/
+- Rotten oranges: https://bit.ly/3oekoir, https://leetcode.com/problems/rotting-oranges/
+- Detect a cycle in an undirected graph: https://bit.ly/3cZMJXp
+- 0 1 matrix: https://bit.ly/3Cc8jlW, https://leetcode.com/problems/01-matrix/submissions/
+- Surrounded Regions | Replace O's with X's: https://bit.ly/3QyPr5g, https://leetcode.com/problems/surrounded-regions/
+- Number of enclaves | multi source bfs: https://bit.ly/3preQSc, https://leetcode.com/problems/number-of-enclaves/
+- Number of distinct islands: https://bit.ly/3AsA08W, https://leetcode.com/problems/number-of-distinct-islands/
+- Bipartite graph(bfs and dfs): https://bit.ly/3SQQgId, https://leetcode.com/problems/is-graph-bipartite/
+- Cycle detection in a directed graph: https://bit.ly/3QwPVsi, https://leetcode.com/problems/course-schedule/
+- Find eventual safe states: https://bit.ly/3C90n59, https://leetcode.com/problems/find-eventual-safe-states/
+- Course schedule I and II / prerequisite tasks: https://bit.ly/3ApDfOm, https://leetcode.com/problems/course-schedule/, https://leetcode.com/problems/course-schedule-ii/
+- Find eventual safe states using toposort: https://bit.ly/3C90n59, https://leetcode.com/problems/find-eventual-safe-states/
+- Alien dictionary: https://bit.ly/3C9N6ZU, https://leetcode.com/problems/alien-dictionary/
+- Shortest path in directed acyclic graph: shorturl.at/Y0234
+- Shortest path in directed acyclic graph having unit distance: shorturl.at/ijsty
+- Word ladder I: https://bit.ly/3PuJxk3, https://leetcode.com/problems/word-ladder/
+- Word ladder II:  https://bit.ly/3As1nQw, https://leetcode.com/problems/word-ladder-ii/
+- Dijkstras algo: 
+    - Network delay time: https://leetcode.com/problems/network-delay-time/,
+    - Path with maximum probability: https://leetcode.com/problems/path-with-maximum-probability/,
+    - The maze II: https://www.lintcode.com/problem/788/ , https://leetcode.com/problems/the-maze-ii/
+    - The maze III:  , https://leetcode.com/problems/the-maze-iii/
+- Articulation and bridges:
+    https://leetcode.com/problems/critical-connections-in-a-network/

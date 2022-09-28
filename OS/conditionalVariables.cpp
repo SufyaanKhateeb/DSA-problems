@@ -48,7 +48,7 @@ void addMoney(int money) {
 void withdrawMoney(int money) {
     std::unique_lock<mutex> ul(m);
     cv.wait(ul, [] {
-        return (balance != 0) ? true : false;
+        return balance != 0;
         });
     cout << "Current balance: " << balance << endl;
     if (money <= balance) {
